@@ -1,10 +1,18 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+      "serverURL": "https://campfiremedia.herokuapp.com/parse",
+      "appId": "maryhadalittlelamb",
+      "masterKey": "whosefleecewaswhiteassnow",
+      "appName": "campfiremedia",
+      "production": true, 
+      "iconName": ""
   }],
+    "users": [
+    {
+      "user”:”user”,
+      "pass":"password"
+    }
+  ],
+
   "iconsFolder": "icons"
 }
